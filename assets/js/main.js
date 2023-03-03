@@ -17,6 +17,12 @@ btnSubscribe.addEventListener('click', async () =>{
     }
 
     const subscriptionId = subscribeToHellfireClub(subscription)
+
+    txtName.value=''
+    txtEmail.value=''
+    txtLevel.value=''
+    txtCharacter.value=''
+
 })
 
 
