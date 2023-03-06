@@ -394,3 +394,14 @@ footer::after{
   transform: rotateZ(10deg);
 }
 
+@media(min-width: 1450){
+
+  #section-stranger-things-trailer .video-frame iframe{
+    bottom: 70%;
+    left: 70%;
+  }
+
+}
+
+
+
