@@ -1,4 +1,8 @@
-<h1 align="center"> Landing Page Stranger Things</h1>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/31187727/223229232-d1eb9c3f-67a2-4dfb-9a0f-057524a260c9.svg" width="350px" height="100px">
+
+</div><h1></h1><br>
 
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
